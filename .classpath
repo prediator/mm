@@ -33,5 +33,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/M A Kadri/Desktop/slf4j-1.7.7.tar.gz"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
